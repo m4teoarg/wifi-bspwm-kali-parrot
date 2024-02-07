@@ -1,0 +1,1 @@
+# wifi-bspwm-kali-parrot
